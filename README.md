@@ -6,7 +6,6 @@
 El juguete espacial del magnate Elon Musk
 
 Bajada: Elon Musk, cuya fortuna puede ser comparada con el PIB al 2021 de Perú, 
-![_grafico1](https://user-images.githubusercontent.com/91480489/201703002-dc2c3723-cc3e-4e7b-abbe-1e9ff19f98e7.svg)
 
 ---
 
