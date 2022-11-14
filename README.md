@@ -9,35 +9,39 @@ Bajada: Elon Musk, cuya fortuna puede ser comparada con el PIB al 2021 de Perú,
 
 ---
 
-Título
+**Subtítulo**
 Bajada
-
-/Línea del tiempo
----
-Título
-Bajada
-
-(Comparación naves)
-/Falcon 9 vs falcon heavy
----
-Título
-Bajada
-
-/Lanzamiento
----
-
-Título
-Bajada
-/Comparativo marte y tierra
+Línea del tiempo
 
 ---
 
-Título
+**Subtítulo**
 Bajada
-/Starship torre entel
-/Starship interior
+Comparación naves + Falcon 9 vs falcon heavy
+
 ---
 
-Título
+**Subtítulo**
+Bajada + Lanzamiento
+
+---
+
+**Subtítulo**
 Bajada
-/Comparaciones
+Comparativo marte y tierra
+
+---
+
+**Subítulo**
+Bajada
+Starship torre entel
+
+---
+
+**Subtítulo**
+Bajada
+Comparaciones nave
+
+---
+
+pendientes profe
